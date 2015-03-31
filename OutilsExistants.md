@@ -25,12 +25,14 @@ Ggouv
 ---------
 
 * Site: http://ggouv.fr/
+* Type : Réseau social démocratique
 * Repo: https://github.com/ggouv
 * Langage : PHP
 
 Airesys
 ---------
 * Site : https://airesis.fr/
+* Type : Plateforme sociale orienté débats
 * Repo : https://github.com/coorasse/Airesis
 * Langage : Ruby
 
