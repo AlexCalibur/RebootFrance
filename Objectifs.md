@@ -1,11 +1,11 @@
 Objectifs de notre logiciel
 ===========================
 
-Cette page a vocation a être un résumé des objectifs primaires et secondaires de l'outil que nous cherchons/développons.
+Cette page a vocation à être un résumé des objectifs primaires et secondaires de l'outil que nous cherchons/développons.
 
-Permettre aux utilisateurs enregistrés de rédiger, de façon collaborative, des propositions d'articles.
+Permettre aux utilisateurs enregistrés de rédiger en collaboration des propositions d'articles.
 
-Permettre à tous les utilisateurs de débattre de ces proposition et d'aporter leur contribution afin de les améliorer.
+Permettre à tous les utilisateurs de débattre de ces propositions et d'apporter leur contribution afin de les améliorer.
 
 Soumettre ces articles à des votes de toute la communauté afin de les valider.
 
