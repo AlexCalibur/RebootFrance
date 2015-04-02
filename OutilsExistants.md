@@ -42,3 +42,18 @@ Question2Answer
 * Type : StackOverflow like
 * Repo : https://github.com/q2a/question2answer
 * Langage : PHP/Mysql
+
+Démocratie Libre
+-----------
+
+* Site : http://democratie-libre.org/
+* Type : Projet Open Source 
+* Langage : PHP - Symfony2 pour l’instant. À définir
+
+Assembl
+-----------
+
+* Site : http://assembl.org/
+* Type : intelligence collaborative
+* repo : https://github.com/ImaginationForPeople/assembl
+* Langage : Python 
