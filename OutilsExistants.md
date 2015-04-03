@@ -48,6 +48,7 @@ Démocratie Libre
 
 * Site : http://democratie-libre.org/
 * Type : Projet Open Source 
+* Repo : https://github.com/Democratie-Libre/Democratie-Libre
 * Langage : PHP - Symfony2 pour l’instant. À définir
 
 Assembl
