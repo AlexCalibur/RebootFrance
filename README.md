@@ -12,4 +12,4 @@ Pour les stressés de la NSA, le serveur est à moi.
 Pour les débats de fond sur la constitution
 * https://www.reddit.com/r/RebootFrance
 * https://etherpad.fr/p/reboot.fr
-* http://rebootfr.referata.com/wiki/Accueil
+* http://wiki.reboot-france.fr/wiki/Accueil
